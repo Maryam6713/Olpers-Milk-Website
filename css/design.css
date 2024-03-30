@@ -1,0 +1,16 @@
+.red{
+    background-color: rgb(189, 58, 58);
+}
+.heading{
+    color: rgb(192, 13, 13);
+    margin-top: 5%;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.container-two{
+   display: inline;
+    
+}
